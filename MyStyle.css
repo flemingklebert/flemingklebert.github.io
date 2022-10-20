@@ -2,6 +2,8 @@
 .cover{
   border-style: double;
   background-image: url("Bottle.jpg");
+  width: 1500;
+  height: 2000;
   background-color: antiquewhite;
   text-align: left;
   background-repeat: space;
